@@ -18,13 +18,14 @@ This repo is intended to document the weekly progress
 sudo apt install git-all # To install git
 
 sudo apt-get install autoconf automake autotools-dev curl python3 libmpc-dev libmpfr-dev libgmp-dev gawk build-essential bison flex texinfo gperf libtool patchutils bc zlib1g-dev libexpat-dev make sure to install the dependencies
+![gnv tool chain](https://github.com/Chetanmaligi/maligichetan/assets/154491089/4d74bdbe-e908-4537-8c74-e5bcef9d6641)
 
 
 # Create a opt dir
 mkdir /opt/riscv try sudo incase of permission denial
 
 In my case I created a driectory mkdir riscv 
-![riscv2](https://github.com/manojhb552/Manoj-H/assets/154490935/34cec089-c85c-46ff-864f-afd145e71eb7)
+
 
 # INSTALLING IVERILOG GTKWAVE & YOSYS
 
@@ -36,20 +37,24 @@ sudo apt-get install build-essential clang bison flex \libreadline-dev gawk tcl-
 make config-gcc
 make 
 sudo make install
-![WhatsApp Image 2024-02-22 at 18 37 22_0df5c6db](https://github.com/manojhb552/Manoj-H/assets/154490935/9ce8e042-4fb3-4565-a6e1-4c18ce6fb257)
-![Screenshot 2024-02-22 183453](https://github.com/manojhb552/Manoj-H/assets/154490935/ed315fd4-ba62-4354-8d3b-ef34b98a1920)
 
+![yosys2](https://github.com/Chetanmaligi/maligichetan/assets/154491089/c2d74cd6-b90b-4a64-be01-6f1b2d47e6f4)
+
+![yosys3](https://github.com/Chetanmaligi/maligichetan/assets/154491089/2d8a804a-6d1b-41d8-948f-b5e504a3e32c)
 
 
 
 # iVerilog
 
 sudo apt-get install iverilog
-![iverilog](https://github.com/manojhb552/Manoj-H/assets/154490935/40061254-bd60-464e-b768-498cfa4711f4)
+![iverilog](https://github.com/Chetanmaligi/maligichetan/assets/154491089/6ce10088-0291-4df6-9d34-fceedd251035)
+
 
 # GTkWave
 
 sudo apt-get install gtkwave
 
-![gtk](https://github.com/manojhb552/Manoj-H/assets/154490935/d7514d6e-02fa-49df-988b-1fbfdcde3cf8)
+![gtk install](https://github.com/Chetanmaligi/maligichetan/assets/154491089/7bec8222-f4c6-43fe-8643-3ab1c75920e4)
+![gtk wave](https://github.com/Chetanmaligi/maligichetan/assets/154491089/e4a75a0f-e672-4a38-b9f4-fd21c0440f38)
+
 
